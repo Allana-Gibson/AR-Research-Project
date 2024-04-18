@@ -1,5 +1,5 @@
-[Impact of Augmented Reality on Environment.csv](https://github.com/Allana-Gibson/AR-Research-Project/files/15030197/Impact.of.Augmented.Reality.on.Environment.csv)# AR Research Project
- Analyze the affect of awareness in social situations while using AR
+ AR Research Project
+ - Analyze the affect of awareness in social situations while using AR
 
 
 Data Collected: 
