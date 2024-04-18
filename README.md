@@ -1,2 +1,2 @@
 # AR Research Project
- Analyze the affect of social situations while using AR
+ Analyze the affect of awareness in social situations while using AR
